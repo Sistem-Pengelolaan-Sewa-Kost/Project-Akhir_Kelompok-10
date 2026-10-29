@@ -13,7 +13,7 @@
 * **Institusi:** Program Studi Sistem Informasi, Universitas Mulawarman
 * **Asisten Laboratorium:**
   * Muhammad Davi Aditya Pratama (NIM. 2509116070)
-  * Pratama (NIM. 2509116075)
+  * Hanif Amelia Putri (NIM. 2509116075)
 
 ---
 
